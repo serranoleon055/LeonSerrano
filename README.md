@@ -21,3 +21,12 @@ Buscador de películas con API real, debounce y página de detalle.
 
 ## 📫 Contacto
 [LinkedIn](https://www.linkedin.com/in/leonserrano/)
+
+### 💈 Blade & Co.
+Landing page profesional para barbería con diseño moderno,
+sección de servicios, galería y contacto por WhatsApp.  
+**Stack:** React · TypeScript · Tailwind CSS  
+🔗 [Demo](https://barber-app-psi-nine.vercel.app) · [Código](https://github.com/serranoleon055/barber-app)
+
+## 📫 Contacto
+[LinkedIn](https://www.linkedin.com/in/leonserrano/)

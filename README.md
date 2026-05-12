@@ -47,19 +47,17 @@ Sistema de gestión con carrito de compras, control de stock y filtros por categ
 Buscador de películas consumiendo API pública, con debounce y página de detalle.  
 [Demo](https://movie-app-gamma-drab-83.vercel.app) · [Código](https://github.com/serranoleon055/movie-app) · Stack: React · TypeScript · React Router
 
-### Blade & Co.
-Landing page para barbería con galería y contacto por WhatsApp.  
-[Demo](https://barber-app-psi-nine.vercel.app) · [Código](https://github.com/serranoleon055/barber-app) · Stack: React · TypeScript · Tailwind
 
 ---
 
 ## Formación
 
 Licenciatura en Informática — Universidad Siglo 21 (2023–2027)  
-A finales de 2026 obtengo el título intermedio de Técnico en Informática.
+A finales de 2026 obtengo el título intermedio de Analista Universitario en Sistemas de Computación.
 
 ---
 
 ## Contacto
+serranoleon.055@gmail.com
 
 [LinkedIn](https://www.linkedin.com/in/leonserrano/) · serranoleon.055@gmail.com

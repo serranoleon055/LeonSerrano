@@ -1,63 +1,27 @@
-# León Serrano — Desarrollador Backend Java
+León Serrano — Desarrollador Full Stack
 
-Java · Spring Boot · Spring Security · JPA · MySQL  
-Estudiante de Licenciatura en Informática — Santiago del Estero, Argentina  
-Buscando mi primera oportunidad profesional como desarrollador backend junior
+Java · Spring Boot · Spring Security · JPA · MySQL · React · TypeScript
+Santiago del Estero, Argentina · Estudiante avanzado de Lic. en Informática (Siglo 21)
 
----
+Construyo sistemas de gestión completos, del modelo de datos a la interfaz. Dos propios, desplegados y funcionando.
 
-## Stack
+Rinde — motor de gestión para fábricas chicas
 
-**Backend (foco principal)**
-Java 21 · Spring Boot · Spring Security · JWT · Spring Data JPA · MySQL · JUnit 5 · Mockito
+Un mismo código base que se adapta a quince rubros de producción. Calcula el costo real de cada producto desde su receta —materia prima, envase, tapa y etiqueta—, con insumos en pesos y en dólares, merma configurable y costo congelado por lote. El stock se calcula desde un registro de movimientos en lugar de un campo mutable, así nunca se descuadra. Incluye cuenta corriente de clientes y proveedores, caja por cuenta con arqueo, comisiones, tablero de rentabilidad, PDF y facturación electrónica contra ARCA con CAE y código QR, verificada contra el servicio real.
 
-**Frontend (complementario)**
-React · TypeScript · Tailwind CSS · Vite · React Router
+Probalo (usuario invitado, contraseña invitado):
+Alimentos · Bebidas · Químicos · Materiales
 
-**Herramientas**
-Git · GitHub · Postman · IntelliJ IDEA · VS Code · Railway · Vercel
+Java 21 Spring Boot Spring Security JWT JPA MySQL Flyway Docker React TypeScript PWA
 
----
+RankPadel — turnos, torneos y ranking para clubes
 
-## Proyectos backend
+Reserva online con seña por Mercado Pago, abonos y promociones, kiosco con stock y caja, motor de torneos con varios formatos, sorteo con cabezas de serie, fase de grupos y eliminatoria, y ranking configurable por temporada.
 
-### Sistema de turnos y reservas — Proyecto principal
-API REST completa para gestión de reservas en negocios (peluquerías, consultorios, etc.).  
-Autenticación JWT con roles ADMIN/CLIENTE, arquitectura en capas, tests unitarios y deploy en producción.
+Demo · Backend · Frontend
 
-- Backend: [github.com/serranoleon055/sistema-turnos](https://github.com/serranoleon055/sistema-turnos) · Deploy en Railway
-- Frontend: [github.com/serranoleon055/reservas-frontend](https://github.com/serranoleon055/reservas-frontend) · [Demo en vivo](https://reservas-frontend-two.vercel.app)
-- Stack: Java · Spring Boot · Spring Security · JWT · JPA · MySQL · JUnit · Mockito · React · TypeScript
+Cómo trabajo
 
-### Supermercado API — Backend
-API REST para gestión de productos, sucursales y ventas con cálculo automático de totales.
+Esquema de base administrado con migraciones, nunca generado automáticamente. Consultas agrupadas para evitar el N+1 en los listados. Paginación en servidor donde los datos crecen sin límite. Validación del lado del servidor siempre. Tests con JUnit y Mockito.
 
-- Código: [github.com/serranoleon055/supermercado](https://github.com/serranoleon055/supermercado)
-- Stack: Java · Spring Boot · JPA · MySQL
-
----
-
-## Proyectos frontend
-
-### Kiosco App
-Sistema de gestión con carrito de compras, control de stock y filtros por categoría.  
-[Demo](https://kiosco-app-alpha.vercel.app) · [Código](https://github.com/serranoleon055/kiosco-app) · Stack: React · TypeScript · Tailwind
-
-### Movie App
-Buscador de películas consumiendo API pública, con debounce y página de detalle.  
-[Demo](https://movie-app-gamma-drab-83.vercel.app) · [Código](https://github.com/serranoleon055/movie-app) · Stack: React · TypeScript · React Router
-
-
----
-
-## Formación
-
-Licenciatura en Informática — Universidad Siglo 21 (2023–2027)  
-A finales de 2026 obtengo el título intermedio de Analista Universitario en Sistemas de Computación.
-
----
-
-## Contacto
-serranoleon.055@gmail.com
-
-[LinkedIn](https://www.linkedin.com/in/leonserrano/) · serranoleon.055@gmail.com
+📍 Santiago del Estero · Portfolio · LinkedIn · serranoleon.055@gmail.com
